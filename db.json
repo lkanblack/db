@@ -1,0 +1,569 @@
+{
+    "header_links": [
+      {
+        "id": "header_1",
+        "home": "Home1",
+        "about_us": "About us",
+        "timeline": "timeline",
+        "contact_us": "contact us"
+      }
+    ],
+    "months": [
+      {
+        "id": "month_1",
+        "month_title": "1 MONTH",
+        "subtitle": "pregnancy",
+        "weeks": [
+          {
+            "title": " 1",
+            "content": "The first week of the fifth month of a",
+            "period": "VERY IMPORTANT PERIOD",
+            "leap": "1",
+            "leap_intensity": "2",
+            "leap_description": "The World of Patterns (Leap 1): This leap occurs at around 8 weeks after birth",
+            "development": [
+              {
+                "title": "Physical development",
+                "description": "By this point, your baby's physical development will have progressed significantly.",
+                "category": "development"
+              },
+              {
+                "title": "Feeding",
+                "description": "At this age, your baby may be able",
+                "category": "feeding"
+              },
+              {
+                "title": "Sleeping",
+                "description": "By this point, your baby may be sleeping for longer stretches at night and may have a more consistent sleep schedule. However, this varies from baby to baby, and some may still need to wake up for feeding.",
+                "category": "sleeping"
+              },
+              {
+                "title": "Communication",
+                "description": "Your baby's communication skills will continue to develop, and they may start to make more sounds and babble. They may also be able to imitate some sounds they hear, like clapping or laughing.",
+                "category": "communication"
+              },
+              {
+                "title": "Social interaction",
+                "description": "Your baby will be more interactive with their surroundings and may start to show more interest in social play. They may start to recognize familiar faces and may become more hesitant around strangers.",
+                "category": "social"
+              }
+            ],
+            "sleep_regression": 1,
+            "sleep_regression_text": "Text about sleep regression"
+          },
+          {
+            "title": " 2",
+            "content": "the second week Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+            "period": "VERY IMPORTANT PERIOD",
+            "leap": "2",
+            "leap_intensity": "3",
+            "leap_description": "The World of Patterns (Leap 2): This leap occurs at around 8 weeks after birth, and is characterized by increased awareness of patterns and regularities in the environment. The baby may start to smile more and show more interest in faces.",
+            "development": [
+              {
+                "title": "Physical development",
+                "description": "By this point, your baby's physical development will have progressed significantly. They may be able to sit up with support and may be able to roll over from their stomach to their back or vice versa. They may also begin to push up onto their hands and knees and may start to show signs of crawling."
+              },
+              {
+                "title": "Feeding",
+                "description": "At this age, your baby may be able to consume more solid foods in addition to breast milk or formula. You can start introducing foods one at a time and watch for any signs of allergies or intolerance. It's important to continue breastfeeding or formula feeding as the main source of nutrition."
+              },
+              {
+                "title": "Sleeping",
+                "description": "By this point, your baby may be sleeping for longer stretches at night and may have a more consistent sleep schedule. However, this varies from baby to baby, and some may still need to wake up for feeding."
+              },
+              {
+                "title": "Communication",
+                "description": "Your baby's communication skills will continue to develop, and they may start to make more sounds and babble. They may also be able to imitate some sounds they hear, like clapping or laughing."
+              },
+              {
+                "title": "Social interaction",
+                "description": "Your baby will be more interactive with their surroundings and may start to show more interest in social play. They may start to recognize familiar faces and may become more hesitant around strangers."
+              }
+            ],
+            "sleep_regression": 0
+          },
+          {
+            "id": 3,
+            "title": " 3",
+            "content": "third week Lorem Ipsum is simply dummy text of the printing and typesetting industryum. Lorem Ipsum is simply dummy text of the printing and typesetting industryum. Lorem Ipsum is simply dummy text of the printing and typesetting industryum. Lorem Ipsum is simply dummy text of the printing and typesetting industryum.",
+            "period": "LESS IMPORTANT PERIOD",
+            "leap": "3",
+            "leap_intensity": "1",
+            "leap_description": "The World of Patterns (Leap 3): This leap occurs at around 8 weeks after birth, and is characterized by increased awareness of patterns and regularities in the environment. The baby may start to smile more and show more interest in faces.",
+            "development": [
+              {
+                "title": "Physical development",
+                "description": "By this point, your baby's physical development will have progressed significantly. They may be able to sit up with support and may be able to roll over from their stomach to their back or vice versa. They may also begin to push up onto their hands and knees and may start to show signs of crawling."
+              },
+              {
+                "title": "Feeding",
+                "description": "At this age, your baby may be able to consume more solid foods in addition to breast milk or formula. You can start introducing foods one at a time and watch for any signs of allergies or intolerance. It's important to continue breastfeeding or formula feeding as the main source of nutrition."
+              },
+              {
+                "title": "Sleeping",
+                "description": "By this point, your baby may be sleeping for longer stretches at night and may have a more consistent sleep schedule. However, this varies from baby to baby, and some may still need to wake up for feeding."
+              },
+              {
+                "title": "Communication",
+                "description": "Your baby's communication skills will continue to develop, and they may start to make more sounds and babble. They may also be able to imitate some sounds they hear, like clapping or laughing."
+              },
+              {
+                "title": "Social interaction",
+                "description": "Your baby will be more interactive with their surroundings and may start to show more interest in social play. They may start to recognize familiar faces and may become more hesitant around strangers."
+              }
+            ],
+            "sleep_regression": 0
+          },
+          {
+            "id": 4,
+            "title": " 4",
+            "content": "Lorem Ipsum",
+            "period": "VERY IMPORTANT PERIOD",
+            "leap": "4",
+            "leap_intensity": "1",
+            "leap_description": "The World of Patterns (Leap 4): This leap occurs at around 8 weeks after birth, and is characterized by increased awareness of patterns and regularities in the environment. The baby may start to smile more and show more interest in faces.",
+            "development": [
+              {
+                "title": "Physical development",
+                "description": "By this point, your baby's physical development will have progressed significantly. They may be able to sit up with support and may be able to roll over from their stomach to their back or vice versa. They may also begin to push up onto their hands and knees and may start to show signs of crawling."
+              },
+              {
+                "title": "Feeding",
+                "description": "At this age, your baby may be able to consume more solid foods in addition to breast milk or formula. You can start introducing foods one at a time and watch for any signs of allergies or intolerance. It's important to continue breastfeeding or formula feeding as the main source of nutrition."
+              },
+              {
+                "title": "Sleeping",
+                "description": "By this point, your baby may be sleeping for longer stretches at night and may have a more consistent sleep schedule. However, this varies from baby to baby, and some may still need to wake up for feeding."
+              },
+              {
+                "title": "Communication",
+                "description": "Your baby's communication skills will continue to develop, and they may start to make more sounds and babble. They may also be able to imitate some sounds they hear, like clapping or laughing."
+              },
+              {
+                "title": "Social interaction",
+                "description": "Your baby will be more interactive with their surroundings and may start to show more interest in social play. They may start to recognize familiar faces and may become more hesitant around strangers."
+              }
+            ],
+            "sleep_regression": "1",
+            "sleep_regression_text": "Sleep regression refers to a period of time when a previously good sleeper, typically an infant or a toddler, suddenly has difficulties falling asleep, staying asleep, or both. It is a temporary disruption in sleep patterns that can occur at various stages of a child's development."
+          }
+        ]
+      },
+      {
+        "id": "month_2",
+        "month_title": "2 MONTHS",
+        "subtitle": "pregnancy",
+        "weeks": [
+          {
+            "id": 5,
+            "title": " 5",
+            "content": "2 motnhs 1 week Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, .",
+            "period": "VERY IMPORTANT PERIOD",
+            "development": [
+              {
+                "title": "Physical development",
+                "description": "By this point, your baby's physical development will have progressed significantly. They may be able to sit up with support and may be able to roll over from their stomach to their back or vice versa. They may also begin to push up onto their hands and knees and may start to show signs of crawling."
+              },
+              {
+                "title": "Feeding",
+                "description": "At this age, your baby may be able to consume more solid foods in addition to breast milk or formula. You can start introducing foods one at a time and watch for any signs of allergies or intolerance. It's important to continue breastfeeding or formula feeding as the main source of nutrition."
+              },
+              {
+                "title": "Sleeping",
+                "description": "By this point, your baby may be sleeping for longer stretches at night and may have a more consistent sleep schedule. However, this varies from baby to baby, and some may still need to wake up for feeding."
+              },
+              {
+                "title": "Communication",
+                "description": "Your baby's communication skills will continue to develop, and they may start to make more sounds and babble. They may also be able to imitate some sounds they hear, like clapping or laughing."
+              },
+              {
+                "title": "Social interaction",
+                "description": "Your baby will be more interactive with their surroundings and may start to show more interest in social play. They may start to recognize familiar faces and may become more hesitant around strangers."
+              }
+            ],
+            "sleep_regression": 1,
+            "sleep_regression_text": "Sleep regression refers to a period of time when a previously good sleeper, typically an infant or a toddler, suddenly has difficulties falling asleep, staying asleep, or both. It is a temporary disruption in sleep patterns that can occur at various stages of a child's development."
+          },
+          {
+            "id": 6,
+            "title": " 6",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it .",
+            "period": "LESS IMPORTANT PERIOD",
+            "leap": "3"
+          },
+          {
+            "id": 7,
+            "title": " 7",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industryum."
+          },
+          {
+            "id": 8,
+            "title": " 8",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type an."
+          }
+        ]
+      },
+      {
+        "id": "month_3",
+        "month_title": "3 MONTHS",
+        "subtitle": "pregnancy",
+        "weeks": [
+          {
+            "id": 9,
+            "title": " 9",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+          },
+          {
+            "id": 10,
+            "title": " 10",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley "
+          },
+          {
+            "id": 11,
+            "title": " 11",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industryum."
+          },
+          {
+            "id": 12,
+            "title": " 12",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it=."
+          }
+        ]
+      },
+      {
+        "id": "month_4",
+        "month_title": "4 MONTHS",
+        "subtitle": "pregnancy",
+        "weeks": [
+          {
+            "id": 13,
+            "title": " 13",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer to"
+          },
+          {
+            "id": 14,
+            "title": " 14",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer"
+          },
+          {
+            "id": 15,
+            "title": " 15",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industryum."
+          },
+          {
+            "id": 16,
+            "title": " 16",
+            "content": "Lorem Ipsum is s"
+          }
+        ]
+      },
+      {
+        "id": "month_5",
+        "month_title": "5 MONTHS",
+        "subtitle": "pregnancy",
+        "weeks": [
+          {
+            "id": 17,
+            "title": " 17",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer to"
+          },
+          {
+            "id": 18,
+            "title": " 18",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a"
+          },
+          {
+            "id": 19,
+            "title": " 19",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industryum."
+          },
+          {
+            "id": 20,
+            "title": " 20",
+            "content": "Lorem I"
+          }
+        ]
+      },
+      {
+        "id": "month_6",
+        "month_title": "6 MONTHS",
+        "subtitle": "pregnancy",
+        "weeks": [
+          {
+            "id": 21,
+            "title": " 21",
+            "content": "Lorem Ipsum is"
+          },
+          {
+            "id": 22,
+            "title": " 22",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled"
+          },
+          {
+            "id": 23,
+            "title": " 23",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industryum."
+          },
+          {
+            "id": 24,
+            "title": " 24",
+            "content": "Lorem Ipsum is simply dummy text"
+          }
+        ]
+      },
+      {
+        "id": "month_7",
+        "month_title": "7 MONTHS",
+        "subtitle": "pregnancy",
+        "weeks": [
+          {
+            "id": 25,
+            "title": " 25",
+            "content": "Lorem Ipsum is simply dummy text of the "
+          },
+          {
+            "id": 26,
+            "title": " 26",
+            "content": "Lorem Ipsum is simply dummy text of the printing "
+          },
+          {
+            "id": 27,
+            "title": " 27",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industryum."
+          },
+          {
+            "id": 28,
+            "title": " 28",
+            "content": "Lorem Ipsum is simply dummy text of "
+          }
+        ]
+      },
+      {
+        "id": "month_8",
+        "month_title": "8 MONTHS",
+        "subtitle": "pregnancy",
+        "weeks": [
+          {
+            "id": 29,
+            "title": " 29",
+            "content": "Lorem Ipsum is simply dummy text of"
+          },
+          {
+            "id": 30,
+            "title": " 30",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+          },
+          {
+            "id": 31,
+            "title": " 31",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industryum."
+          },
+          {
+            "id": 32,
+            "title": " 32",
+            "content": "Lorem Ipsum is simply dummy text of the printing and "
+          }
+        ]
+      },
+      {
+        "id": "month_9",
+        "month_title": "9 MONTHS",
+        "subtitle": "pregnancy",
+        "weeks": [
+          {
+            "id": 33,
+            "title": " 33",
+            "content": "Lorem Ipsum is simply dummy text of the printing and"
+          },
+          {
+            "id": 34,
+            "title": " 34",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+          },
+          {
+            "id": 35,
+            "title": " 35",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industryum."
+          },
+          {
+            "id": 36,
+            "title": " 36",
+            "content": "Lorem Ipsum is simply dummy text of the printing and="
+          }
+        ]
+      },
+      {
+        "month_title": "1 MONTH",
+        "subtitle": "baby's life",
+        "id": "TN2Dd2G",
+        "weeks": [
+          {
+            "title": "1",
+            "content": "First week of baby's life",
+            "period": "VERY IMPORTANT PERIOD",
+            "leap": "1",
+            "leap_intensity": "3",
+            "leap_description": "trying to survive",
+            "sleep_regression": "1",
+            "development": [
+              {
+                "title": "Physical development",
+                "description": "Development"
+              },
+              {
+                "title": "Second development",
+                "description": "development"
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "content": "secnd week of babys life",
+            "period": "VERY IMPORTANT PERIOD",
+            "leap": "1",
+            "leap_intensity": "2",
+            "leap_description": "random text",
+            "sleep_regression": "0",
+            "development": []
+          }
+        ]
+      },
+      {
+        "month_title": "2 MONTHS",
+        "subtitle": "Baby's Life",
+        "id": "DQH0Z15",
+        "weeks": [
+          {
+            "title": "1",
+            "content": "random",
+            "period": "LESS IMPORTANT PERIOD",
+            "sleep_regression": "0",
+            "leap": "1",
+            "leap_intensity": "3",
+            "leap_description": "random",
+            "development": []
+          }
+        ]
+      }
+    ],
+    "main_text": [
+      {
+        "id": "main_1",
+        "hero_title": "A better journey for you and your baby",
+        "hero_subtitle": "Stay informed and healthy with our fully-informed timelines about your and your baby's health and processes.",
+        "main_title": "Best quality of your and your baby health!",
+        "main_subtitle": "Seamless parenting journey with expertly crafted timelines. Covering all stages of pregnancy and baby growth, our guide empowers with deep understanding. Join us today to become a confident parent"
+      }
+    ],
+    "cards": [
+      {
+        "id": "card_1",
+        "card_title": "Pregnancy Planning and Monitoringы",
+        "card_description": "Pregnancy planning and monitoring are essential for ensuring the health and well-being of both the mother and the developing fetus, and can help to identify any potential complications early on for better outcomes. Overall, it is an important aspect of reproductive health and family planning.!!!",
+        "card_icon": "fa-solid fa-hands-holding"
+      },
+      {
+        "id": "card_2",
+        "card_title": "Giving birth to your baby",
+        "card_description": "The process can be physically and emotionally intense, and requires support from medical professionals, partners, or family members. After the baby is born, the mother and newborn may require additional care and monitoring before they are discharged from the hospital or birth center.",
+        "card_icon": "fa-solid fa-baby"
+      },
+      {
+        "id": "card_3",
+        "card_title": "Bonding with Your Baby",
+        "card_description": "Pregnancy planning and monitoring are essential for ensuring the health and well-being of both the mother and the developing fetus, and can help to identify any potential complications early on for better outcomes. Overall, it is an important aspect of reproductive health and family planning.",
+        "card_icon": "fa-solid fa-hand-holding-heart"
+      }
+    ],
+    "about_text": [
+      {
+        "id": "about_id",
+        "about_title": "Welcome to Bamofy, a trusted and specialized firm dedicated to providing a wide range of informative services for expectant mothers and new moms. Our mission is to empower women throughout their pregnancy journey and beyond, ensuring their well-being and the health of their babies.",
+        "about_subtitle": "At Bamofy, we understand the importance of reliable and accurate information during this transformative phase of life. That's why our services are carefully curated and compiled in collaboration with expert medical professionals. We prioritize your health, offering evidence-based guidance and support every step of the way.",
+        "about_pros": [
+          {
+            "id": "pros_2",
+            "pros_text": "Maternal Health Resources: Access a wealth of resources on maintaining a healthy lifestyle during pregnancy. From nutrition and exercise tips to managing common discomforts, we provide valuable insights to support your well-being and ensure a positive experience for both you and your baby."
+          },
+          {
+            "id": "pros_1",
+            "pros_text": "Personalized Pregnancy Timelines: Stay informed about the various stages of pregnancy, important milestones, and recommended medical check-ups. Our timelines are tailored to your specific needs, providing you with a clear understanding of what to expect during each trimester."
+          },
+          {
+            "id": "pros_3",
+            "pros_text": "Community Support: Join a vibrant community of fellow moms and moms-to-be, where you can share experiences, seek advice, and find a supportive network. Connect with like-minded individuals who understand the challenges and joys of motherhood."
+          },
+          {
+            "id": "pros_4",
+            "pros_text": "Educational Workshops: Attend informative workshops and classes conducted by experienced professionals. Topics may include breastfeeding techniques, infant care, childbirth preparation, and more. Expand your knowledge and gain the confidence needed for this new chapter in your life."
+          }
+        ],
+        "about_footer": "Bamofy is committed to ensuring that every woman receives the care, information, and support she deserves. We believe that well-informed mothers make empowered choices and experience healthier pregnancies and postpartum journeys. Join us at Bamofy and embark on a transformative journey towards motherhood with confidence and peace of mind. Together, let's celebrate the beauty and strength of motherhood while prioritizing your well-being and the health of your baby."
+      }
+    ],
+    "contact": [
+      {
+        "id": "contact_1",
+        "contact_title": "contact us",
+        "contact_text": "We value your feedback and inquiries. Whether you have a question, suggestion, or simply want to say hello, we're here to listen. Please feel free to reach out to us using the contact form provided below or directly to our email: info@bamofy.ee. Our dedicated team is ready to assist you and provide the information you need."
+      }
+    ],
+    "footer": [
+      {
+        "id": "footer_1",
+        "footer_contact_title": "contact",
+        "footer_email": "info@bamofy.com",
+        "footer_phone": " +372 5670 6709",
+        "footer_location_title": "location",
+        "footer_address": "kivimurru 34",
+        "footer_location": "tallinn, estonia 11411",
+        "footer_copyright": "Copyright © 2023. All Rights Reserved.",
+        "footer_socials": [
+          {
+            "social_link": "https://www.facebook.com/",
+            "social_icon": "fa-brands fa-facebook"
+          },
+          {
+            "social_link": "https://www.instagram.com/",
+            "social_icon": "fa-brands fa-instagram"
+          },
+          {
+            "social_link": "https://twitter.com/",
+            "social_icon": "fa-brands fa-twitter"
+          }
+        ]
+      }
+    ],
+    "colors": [
+      {
+        "id": "color_1",
+        "title": "pregnant 1-3 months",
+        "color": "#d6e3b0"
+      },
+      {
+        "id": "color_2",
+        "title": "pregnant 3-6 months",
+        "color": "#92CE8D"
+      },
+      {
+        "id": "color_3",
+        "title": "pregnant 6-9 months",
+        "color": "#E0D0A3"
+      },
+      {
+        "id": "color_4",
+        "title": "baby's life 1-3 months",
+        "color": "#FDA9A9"
+      },
+      {
+        "id": "color_5",
+        "title": "baby's life 3-6 months",
+        "color": "#00C2D4"
+      },
+      {
+        "id": "color_6",
+        "title": "baby's life 6-9 months",
+        "color": "#FBB901"
+      }
+    ]
+  }
