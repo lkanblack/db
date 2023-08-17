@@ -7,11 +7,11 @@ const port = process.env.PORT || 3001;
 server.use(middlewares);
 server.use(router);
 
-server.listen(port, (err) => {
-  if (err) {
-    console.error("Error starting server:", err);
-    process.exit(1); // Exit with an error code
-  } else {
-    console.log("Server listening on port " + port);
-  }
+server.listen(port, () => {
+  const host = "www.bamofy.krabu.tech"; 
+  console.log(`Server is running at: https://${host}:${port}/`);
+
+}).on("error", (err) => {
+  console.error("Error starting server:", err);
+  process.exit(1); 
 });
