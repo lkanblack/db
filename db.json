@@ -569,8 +569,9 @@
     "google_ads" : [
       {
         "id" : "google_ads_1",
-        "google_ads_title": "Google Ads Title",
-        "google_ads_script": "Google Ads Script"
+        "google_ads_title": "test",
+        "data-ad-client": "ca-pub-7362713024741135",
+        "data-ad-slot": "5887425614"  
       }
     ]
   }
