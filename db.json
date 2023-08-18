@@ -2,7 +2,7 @@
     "header_links": [
       {
         "id": "header_1",
-        "home": "Home1",
+        "home": "Home",
         "about_us": "About us",
         "timeline": "timeline",
         "contact_us": "contact us"
@@ -564,6 +564,13 @@
         "id": "color_6",
         "title": "baby's life 6-9 months",
         "color": "#FBB901"
+      }
+    ],
+    "google_ads" : [
+      {
+        "id" : "google_ads_1",
+        "google_ads_title": "Google Ads Title",
+        "google_ads_script": "Google Ads Script"
       }
     ]
   }
