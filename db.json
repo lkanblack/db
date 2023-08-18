@@ -570,8 +570,8 @@
       {
         "id" : "google_ads_1",
         "google_ads_title": "test",
-        "data-ad-client": "ca-pub-7362713024741135",
-        "data-ad-slot": "5887425614"  
+        "data_ad_client": "ca-pub-7362713024741135",
+        "data_ad_slot": "5887425614"  
       }
     ]
   }
